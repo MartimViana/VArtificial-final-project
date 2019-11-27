@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/operator/mutation/real/MuGauss.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/report/statistics/GeneticDiversity.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/report/statistics/FunctionCalls.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/operator/recombination/real/AX.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/report/html/WWWSolverSaveReport.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/solverUtils/EAExperiment.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/operator/recombination/real/MuAX.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/utils/MyFile.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/operator/recombination/real/PX.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/operator/recombination/real/MPX.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/operator/recombination/real/MPX1.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/report/ReportSolverArray.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/report/html/WWWSolverSaveReportArray.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/operator/mutation/real/Gauss.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/report/statistics/AbstractStatistics.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/report/html/WwwExperimentReport.java</file>
+            <file>file:/A:/Dropbox/PHD/VM_PHD/VM_algorithmi/MuGA_Algorithmi_07_09/src/com/evolutionary/report/ReportSolver.java</file>
+        </group>
+    </open-files>
+</project-private>

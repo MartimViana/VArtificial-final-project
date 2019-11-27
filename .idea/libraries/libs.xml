@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MuGA-master/src/libs/commons-math3/commons-lang3-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MuGA-master/src/libs/commons-math3/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MuGA-master/src/libs/javaview/javaview.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MuGA-master/src/libs/jfreechart/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MuGA-master/src/libs/jfreechart/jfreechart-1.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

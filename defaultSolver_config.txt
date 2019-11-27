@@ -1,0 +1,30 @@
+solver name          = DefaultSolver
+random seed          = 123
+number of runs       = 1
+
+solver type         = GA
+stop criteria       = MaxEvaluations 50000.0
+
+problem name        = bits.OneMax 128
+population type     = MultiPopulation 64
+
+selection           = MTournamentSelection 1.0 2
+recombination       = DefaultRecombination 0.75 0.5
+mutation            = DefaultMutation -1.0
+replacement         = Gerational 0.0
+rescaling           = AdaptiveCeiling 1.5
+
+statistic           = BestFitness
+statistic           = FuncsCallsToOptimum
+statistic           = Generation
+statistic           = GeneticDiversity
+statistic           = Genotypes
+statistic           = Individuals
+statistic           = MaxCopies
+statistic           = NumMaximaPop
+statistic           = NumOptimalGenomesPop
+statistic           = NumOptimumsFound
+statistic           = SelectedGenotypes
+statistic           = SucessRate
+statistic           = FunctionCalls
+
